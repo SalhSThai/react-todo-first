@@ -3,7 +3,7 @@ import Home from "./pages/Home";
 
 function App() {
   return (
-    <div className="w-screen min-h-screen bg-teal-900">
+    <div className="w-screen h-screen min-h-screen bg-teal-900">
       <Layout>
         <Home />
       </Layout>
